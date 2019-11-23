@@ -1,0 +1,11 @@
+[centos_7]
+name=centos/7
+baseurl=http://mirror.cs.vt.edu/pub/CentOS/7/os/x86_64
+enabled=1
+
+[centos_7_dotnet]
+name=centos_dotnet
+baseurl=http://mirror.cs.vt.edu/pub/CentOS/7/dotnet/x86_64
+enabled=1
+
+
